@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   fintechlendingjourney-chart:
   - apiVersion: v1
-    created: "2021-06-11T15:02:26.457393+05:30"
+    created: "2021-06-11T15:15:48.215693+05:30"
     description: fintechlendingjourney
-    digest: ad384afea86998a9b678f9503511e9ae54148e928bb91f7f1d5cd56d76c036e7
+    digest: 286e82a937a95993082e0382b99d6852a50fc0b988a98c86555b5c9b9051eda8
     name: fintechlendingjourney-chart
     urls:
-    - mycharts/fintechlendingjourney-chart-6.0.0.tgz
-    version: 6.0.0
-generated: "2021-06-11T15:02:26.45675+05:30"
+    - mycharts/fintechlendingjourney-chart-6.0.1.tgz
+    version: 6.0.1
+generated: "2021-06-11T15:15:48.215192+05:30"
