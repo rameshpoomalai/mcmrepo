@@ -1,12 +1,22 @@
 apiVersion: v1
 entries:
+  bankingfundtransfer:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-06-20T13:44:55.306407+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b4a5367c0f55cb04f2ebc39edab0d8036a88b1abcf5456c91e63665934f8eee6
+    name: bankingfundtransfer
+    urls:
+    - mycharts/bankingfundtransfer-2.0.0.tgz
+    version: 2.0.0
   fintechlendingjourney-chart:
   - apiVersion: v1
-    created: "2021-06-11T15:15:48.215693+05:30"
+    created: "2021-06-20T13:44:55.306801+05:30"
     description: fintechlendingjourney
     digest: 286e82a937a95993082e0382b99d6852a50fc0b988a98c86555b5c9b9051eda8
     name: fintechlendingjourney-chart
     urls:
     - mycharts/fintechlendingjourney-chart-6.0.1.tgz
     version: 6.0.1
-generated: "2021-06-11T15:15:48.215192+05:30"
+generated: "2021-06-20T13:44:55.30576+05:30"
