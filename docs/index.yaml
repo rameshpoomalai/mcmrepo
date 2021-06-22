@@ -3,17 +3,27 @@ entries:
   bankingcommonsrv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.067084+05:30"
+    created: "2021-06-22T08:28:57.159083+05:30"
     description: A Helm chart for Kubernetes
     digest: 4ecb976e294371cc35a460a290c8355e6474b5b975833d00df503ccec2758097
     name: bankingcommonsrv
     urls:
     - mycharts/bankingcommonsrv-1.0.1.tgz
     version: 1.0.1
+  bankingfundtransfer:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-06-22T08:28:57.159499+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1b4c89b056a3e9fb0c9e48c3cf4a55fc6b8e4e6c32e599b68d71c64d5936afb7
+    name: bankingfundtransfer
+    urls:
+    - mycharts/bankingfundtransfer-1.0.3.tgz
+    version: 1.0.3
   bankingportal:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.067504+05:30"
+    created: "2021-06-22T08:28:57.159917+05:30"
     description: A Helm chart for Kubernetes
     digest: d329c7a20b01bb9cf30b5cb4bd6a9a51b1aff47bc2219af7b569f4b2068f5480
     name: bankingportal
@@ -22,27 +32,17 @@ entries:
     version: 1.0.1
   fintechlendingjourney-chart:
   - apiVersion: v1
-    created: "2021-06-22T07:55:15.067865+05:30"
+    created: "2021-06-22T08:28:57.160274+05:30"
     description: fintechlendingjourney
     digest: 286e82a937a95993082e0382b99d6852a50fc0b988a98c86555b5c9b9051eda8
     name: fintechlendingjourney-chart
     urls:
     - mycharts/fintechlendingjourney-chart-6.0.1.tgz
     version: 6.0.1
-  fundtransfer:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-06-22T07:55:15.068283+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 59f84335b787c2279ce7f8f093f5b455ba26ccbee7c286c0c224408dfcbf4f3a
-    name: fundtransfer
-    urls:
-    - mycharts/fundtransfer-1.0.2.tgz
-    version: 1.0.2
   modbalancecbs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.068667+05:30"
+    created: "2021-06-22T08:28:57.160681+05:30"
     description: A Helm chart for Kubernetes
     digest: 988fe353493450b33334100abbbf9d47f63c38885410651769dded5962156cf6
     name: modbalancecbs
@@ -52,7 +52,7 @@ entries:
   modbalancesrv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.069065+05:30"
+    created: "2021-06-22T08:28:57.161079+05:30"
     description: A Helm chart for Kubernetes
     digest: 046e295dcef53069ee59e0fa4b764a2adcc082e16b0831eef50e1d4a19f2efd1
     name: modbalancesrv
@@ -62,7 +62,7 @@ entries:
   modeofoperationcbs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.06947+05:30"
+    created: "2021-06-22T08:28:57.161471+05:30"
     description: A Helm chart for Kubernetes
     digest: b75c1dfe2fe8aee759efb1936fe09447715e0111a48c8e3dc3ed91df9a62abfa
     name: modeofoperationcbs
@@ -72,7 +72,7 @@ entries:
   modeofoperationsrv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.069921+05:30"
+    created: "2021-06-22T08:28:57.161872+05:30"
     description: A Helm chart for Kubernetes
     digest: 86e2ea1470b1df76942ee0657e758ed28ef8729f82f3d3e714408588a11c8dc5
     name: modeofoperationsrv
@@ -82,7 +82,7 @@ entries:
   otp-generator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.070317+05:30"
+    created: "2021-06-22T08:28:57.162256+05:30"
     description: A Helm chart for Kubernetes
     digest: 2e4e28e3f28fce89a37b58578c503d38ae1ffe96c7efcad81fde3dd52d392c50
     name: otp-generator
@@ -92,7 +92,7 @@ entries:
   transactionrights:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.070736+05:30"
+    created: "2021-06-22T08:28:57.163616+05:30"
     description: A Helm chart for Kubernetes
     digest: 7950620baf8f277dbe950f8d762b6e119893e02c05f00efbc9a4cd8b10b4e617
     name: transactionrights
@@ -102,11 +102,11 @@ entries:
   transactionrightscbs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-22T07:55:15.071495+05:30"
+    created: "2021-06-22T08:28:57.164109+05:30"
     description: A Helm chart for Kubernetes
     digest: c5f145321f4f4b55d85fe513822274118709bdcaca9aed9a7c3fd0e90fcbd47c
     name: transactionrightscbs
     urls:
     - mycharts/transactionrightscbs-1.0.1.tgz
     version: 1.0.1
-generated: "2021-06-22T07:55:15.066475+05:30"
+generated: "2021-06-22T08:28:57.158426+05:30"
