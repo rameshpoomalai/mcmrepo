@@ -3,101 +3,101 @@ entries:
   bankingcommonsrv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.728947+05:30"
+    created: "2021-07-02T05:57:49.945218+05:30"
     description: A Helm chart for bankingcommonservice
-    digest: 0f3fdaf2d8c26b1d0edb47ec1c8708788c79dab1480c5d2876bde849491eba83
+    digest: 890d9daea782e1424a587a9f0f8082129f920d011f607d3207d37d4635e1a789
     name: bankingcommonsrv
     urls:
-    - mycharts/bankingcommonsrv-2.0.7.tgz
-    version: 2.0.7
+    - mycharts/bankingcommonsrv-2.0.8.tgz
+    version: 2.0.8
   bankingfundtransfer:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.729571+05:30"
+    created: "2021-07-02T05:57:49.945722+05:30"
     description: A Helm chart for Kubernetes
-    digest: 77cfc21d3fa3abddf77bf8df5bc26455d445165b8dbdf3baf5cebd614c00922e
+    digest: 365d2520e4e0ad2181ad8b73f878f939d7538e36d66e0ea6004cb4a85543e9d4
     name: bankingfundtransfer
     urls:
-    - mycharts/bankingfundtransfer-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/bankingfundtransfer-2.0.8.tgz
+    version: 2.0.8
   bankingportal:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.731033+05:30"
+    created: "2021-07-02T05:57:49.946139+05:30"
     description: A Helm chart for Kubernetes
-    digest: 546166290ea64eff60b63a8963f906bb4e24c03b67eab9d84eac36b5085573ff
+    digest: 52f013cf55138cd2157995cab599b21d6b7fe3b9b2d6bb21de0103382153c93d
     name: bankingportal
     urls:
-    - mycharts/bankingportal-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/bankingportal-2.0.8.tgz
+    version: 2.0.8
   modbalancecbs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.731681+05:30"
+    created: "2021-07-02T05:57:49.946541+05:30"
     description: A Helm chart for Kubernetes
-    digest: f6cc35ef5bd58d400565c0e7563a86036d5b47ec9aaf4263e5fcc21731fa2650
+    digest: 32cfdb461f84299d178338887ba1d98e0c0e5449ec25a270234e47608fc2d05b
     name: modbalancecbs
     urls:
-    - mycharts/modbalancecbs-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/modbalancecbs-2.0.8.tgz
+    version: 2.0.8
   modbalancesrv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.732228+05:30"
+    created: "2021-07-02T05:57:49.946955+05:30"
     description: A Helm chart for Kubernetes
-    digest: 33839226cad9705f21be115ff81be7f9abf6b2a87495838b06dd1264419ba329
+    digest: e68f6bb62296e343f0dc0ba3a988b487f931c932f04aba36a38ed4c5ef02c6cb
     name: modbalancesrv
     urls:
-    - mycharts/modbalancesrv-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/modbalancesrv-2.0.8.tgz
+    version: 2.0.8
   modeofoperationcbs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.732922+05:30"
+    created: "2021-07-02T05:57:49.947372+05:30"
     description: A Helm chart for Kubernetes
-    digest: f681a7c901551c815417653d6c13a40cbb0182172d62622987b38b4559ba9788
+    digest: e34c610927c45f501bbf9ec0621c5d6ba18c3f3461444a7f705dbed7f34f7081
     name: modeofoperationcbs
     urls:
-    - mycharts/modeofoperationcbs-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/modeofoperationcbs-2.0.8.tgz
+    version: 2.0.8
   modeofoperationsrv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.733504+05:30"
+    created: "2021-07-02T05:57:49.947768+05:30"
     description: A Helm chart for Kubernetes
-    digest: 51a2775e30c222418f6a2230ce106441a3b4f57a6949b712f15b2db515aa04a6
+    digest: d765b14d6f027ac298aadfb75915daad596dfac7c80d57ede10c7d1991e6d41c
     name: modeofoperationsrv
     urls:
-    - mycharts/modeofoperationsrv-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/modeofoperationsrv-2.0.8.tgz
+    version: 2.0.8
   otp-generator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.734186+05:30"
+    created: "2021-07-02T05:57:49.948177+05:30"
     description: A Helm chart for Kubernetes
-    digest: 4db3e66946d0a08995a9fe862a09e19d1f95d1598cecc16d5a143b8e745c6838
+    digest: 00355b19351e377060db787762d68bd6add584fdaed7fa5f82b1f10d264e42d0
     name: otp-generator
     urls:
-    - mycharts/otp-generator-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/otp-generator-2.0.8.tgz
+    version: 2.0.8
   transactionrights:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.734903+05:30"
+    created: "2021-07-02T05:57:49.948797+05:30"
     description: A Helm chart for Kubernetes
-    digest: 04e7d4f20480fc129e1946d5ef21a851da54ee49c1b20449a3392be7f51b1c80
+    digest: 6f4c2a429a4d1df4ca7cc26ff4924231c04a605cdf768cd1f9624dfd33130579
     name: transactionrights
     urls:
-    - mycharts/transactionrights-2.0.6.tgz
-    version: 2.0.6
+    - mycharts/transactionrights-2.0.8.tgz
+    version: 2.0.8
   transactionrightscbs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-07-02T05:12:35.735961+05:30"
+    created: "2021-07-02T05:57:49.949349+05:30"
     description: A Helm chart for Kubernetes
-    digest: 666f2291cfaedeb9ad8e78e49097fae90b52ec5b342fb9ca4185b4085c372e3a
+    digest: 1313623eb4ce4c3386efd325de9b57f65fdb57382184d8c4d9fec473c99adcb0
     name: transactionrightscbs
     urls:
-    - mycharts/transactionrightscbs-2.0.7.tgz
-    version: 2.0.7
-generated: "2021-07-02T05:12:35.72784+05:30"
+    - mycharts/transactionrightscbs-2.0.8.tgz
+    version: 2.0.8
+generated: "2021-07-02T05:57:49.944521+05:30"
